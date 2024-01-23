@@ -1,0 +1,25 @@
+/* --- Block Testimonials
+-------------------------------------------------------- */
+
+.wp-block-clients-testimonial {
+    .wp-block-group-content {
+        position: relative;
+        &:before {
+            color: var(--wp--preset--color--foreground);
+            font-family: "georgia";
+            content: "\201C";
+            display: block;
+            float: left;
+            font-size: 91px;
+            font-style: normal;
+            font-weight: 500;
+            height: 0;
+            line-height: 1;
+            position: absolute;
+            right: auto;
+            left: 50%;
+            top: -8px;
+            transform: translateX(-50%);
+        }
+    }
+}

@@ -1,0 +1,288 @@
+/*
+Theme Name: Coffee Station
+Theme URI: https://www.buywpthemes.net/products/free-coffee-shop-wordpress-theme/
+Author: Peccular
+Author URI: https://www.buywpthemes.net/
+Description: Coffee Station WordPress Theme we’ve curated is as stimulating as the coffee itself!  It’s refreshing, visually cool and uplifting and layout-wise absolutely perfect and relevant. It will enable coffee shop owners to talk about various types, combinations, and flavors coffees that are sold in the coffee station.  There are spaces provided to place images. Images as we know play a very, very, cool and important role in attracting coffee shop lovers to the shop. There is no need to hire a designer to upload new photos and images, or add new content or delete old content and update it with something more relevant… no spending money on hiring a professional for all this. The dashboard of Coffee Shop WordPress Theme is very easy to use. Once you get used to it, within minutes all this can be achieved. Layout of Coffee Station WordPress Theme is just superb. Once you log in to the theme you will enjoy the experience of placing content in different sections. The whole journey of building your online presence and launching it for your audience is going to be simple and beautiful. Our designers have paid special attention to the fact that not all coffee station owners will know or be proficient in coding language or have a big budget. Therefore when you own this theme you will require neither. Just download and install the theme and place content and pictures/images and your online presence can be launched within no time. All you are going to need is a domain name and hosting space. Design we are offering for free! Your business will look perfect on Coffee Station WordPress Theme. We assure you that your Coffee Station will flourish on our Coffee Station WordPress Theme. And you will be able to maintain it yourself! Wow!   
+Version: 0.1
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: coffee-station
+Slug: coffee-station
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.waves {
+    position: absolute;
+    width: 100%;
+    height: 31vh;
+    margin-bottom: -7px;
+    min-height: 100px;
+    max-height: 150px;
+    bottom: 0;
+}
+.pl-0{padding-left:0;  }
+.m-rl{margin-right: 0;margin-left: 0}
+#slider-section{
+    position: relative;
+    overflow: hidden;
+    background: url(assets/images/sliderimage.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#slider-section .slideinning{
+    background: #000;
+    opacity: 0.7;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.sl-r-img {
+    position: relative;
+    text-align: right;
+    -webkit-mask-image: url(assets/images/whowerLayer.png);
+    mask-image: url(assets/images/whowerLayer.png);
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    mask-size: 100%;
+    width: 647px;
+    height: 100%;
+    bottom: -147PX;
+    float: right;
+}
+.sl-r-img:after{
+    content: "";
+    -webkit-mask-image: url(assets/images/whowerLayer5.png);
+    mask-image: url(assets/images/whowerLayer5.png);
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    mask-size: 100%;
+    position: absolute;
+    right: 0px;
+    z-index: 22;
+    height: 100%;
+    width: 100%;
+    top: auto;
+    background: #ffffff;
+    bottom: 0;
+}
+.hero-slider .s-tp{
+    position: absolute;
+    overflow: hidden;
+    background: url(assets/images/slidertp1.png);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+}
+.hero-slider .s-tp2 {
+    position: absolute;
+    overflow: hidden;
+    background: url(assets/images/slidertp2.png);
+    top: 21%;
+    left: 17%;
+    right: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+}
+.hero-slider .sl-l1{
+    position: absolute;
+    overflow: hidden;
+    background: url(assets/images/sl-leave3.png);
+    top: 0%;
+    left: 43%;
+    right: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+}
+.hero-slider .sl-l2{
+    position: absolute;
+    overflow: hidden;
+    background: url(assets/images/sl-leave4.png);
+    top: 30%;
+    left: 4%;
+    right: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+}
+
+.sl-r-img {
+    position: relative;
+    text-align: right;
+    -webkit-mask-image: url(assets/images/whowerLayer.png);
+    mask-image: url(assets/images/whowerLayer.png);
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    mask-size: 100%;
+    width: 647px;
+    height: 100%;
+    bottom: -147PX;
+    float: right;
+}
+
+#service-section .serimg {
+    -webkit-mask-image: url(assets/images/ser_m.png);
+    mask-image: url(assets/images/ser_m.png);
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    mask-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+#service-section .imageBox:before{
+    content: "";
+    position: absolute;
+    width: 72%;
+    height: 100%;
+    margin: auto;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 255px;
+    border-bottom-left-radius: 215px;
+    border-bottom-right-radius: 200px;
+    background: #e2bc95;
+    transition: all .4s;
+    top: 0px;
+    right: 12px;
+}
+.blog-area .blog-img{
+    -webkit-mask-image: url(assets/images/blog_m.png);
+    mask-image: url(assets/images/blog_m.png);
+    -webkit-mask-position: center center;
+/*    mask-position: center center;*/
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    mask-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+.blog-area .blog-image:before{
+    content: "";
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    /* border-top-left-radius: 174px; */
+    /* border-top-right-radius: 312px; */
+    /* border-bottom-left-radius: 291px; */
+    /* border-bottom-right-radius: 200px; */
+    background: #e2bc95;
+    transition: all .4s;
+    top: 0px;
+    right: 7px;
+    border-radius: 256px 237px 252px / 209px 311px;
+    transform: rotate(44deg);
+}
+.footer-area {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    z-index: 1;
+    padding:4em 0 0em 0;
+    overflow: hidden;
+    background: url(assets/images/footer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-area .f-oly{
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #000;
+    opacity: 0.5;
+}
+
+
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+   transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
+/*Shrinking for mobile*/
+@media (max-width: 768px) {
+  .waves {
+    height:40px;
+    min-height:40px;
+  }
+}
+.recentcomments a {
+    display: inline-block !important;
+    padding-left: 18px !important;
+    margin: 0 !important;
+}
+
+.slider-img-overlay {
+    position: absolute;
+    left: 0;
+    right: 52.5%;
+    top: 0;
+    bottom: 0;
+    background: #161415;
+    opacity: 1;
+    clip-path: polygon(0 0, 67% 0, 100% 100%, 0% 100%);
+}
+.slider-img-overlay-outer {
+    position: absolute;
+    left: 0;
+    right: 50%;
+    top: 0;
+    bottom: 0;
+    background: #fff;
+    opacity: 1;
+    clip-path: polygon(0 0, 68% 0, 100% 100%, 0% 100%);
+}
+@media (max-width: 991px) {
+.slider-img-overlay-outer {
+    right: 35%;
+}
+.slider-img-overlay {
+    right: 38.5%;
+}
+
+}

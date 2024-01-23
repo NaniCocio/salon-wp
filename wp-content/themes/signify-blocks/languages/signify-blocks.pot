@@ -1,0 +1,359 @@
+# <!=Copyright (C) 2023 Catch Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Signify Blocks\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2023-11-17 21:47+0545\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: WEN Themes <info@wenthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin/admin.php:48
+msgid "Version"
+msgstr ""
+
+#: inc/admin/admin.php:60 inc/admin/admin.php:67
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/admin/admin.php:63
+msgid ""
+"To get more beautiful block patterns and templates, we recommend you to Upgrade to "
+"Signify Blocks Pro"
+msgstr ""
+
+#: inc/admin/admin.php:74
+msgid "Full Site Editing"
+msgstr ""
+
+#: inc/admin/admin.php:77
+msgid ""
+"We have used Full Site Editing which will help you preview your changes live and "
+"fast."
+msgstr ""
+
+#: inc/admin/admin.php:81
+msgid "Use Site Editor"
+msgstr ""
+
+#: inc/admin/admin.php:88
+msgid "Theme Instructions"
+msgstr ""
+
+#: inc/admin/admin.php:90
+msgid ""
+"We have prepared detailed theme instructions which will help you to customize theme "
+"as you prefer."
+msgstr ""
+
+#: inc/admin/admin.php:94
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/admin.php:102
+msgid "Help &amp; Support"
+msgstr ""
+
+#: inc/admin/admin.php:105
+msgid ""
+"If you have any question/feedback regarding theme, please post in our official "
+"support forum."
+msgstr ""
+
+#: inc/admin/admin.php:109
+msgid "Get Support"
+msgstr ""
+
+#: inc/block-patterns.php:18 inc/blocks.php:18 patterns/footer-three-columns.php:17
+msgid "Signify Blocks"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr ""
+
+#: inc/block-styles.php:26
+msgid "No Padding"
+msgstr ""
+
+#: inc/block-styles.php:35
+msgid "Gap Zero"
+msgstr ""
+
+#: inc/icon-function.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-function.php:43
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: patterns/404-header.php:23 patterns/hidden-404.php:14
+msgid "404 Nothing Found"
+msgstr ""
+
+#: patterns/404-header.php:26
+msgid "Oops! That page can't be found"
+msgstr ""
+
+#: patterns/blog-header.php:21
+msgid "Recent From Blog"
+msgstr ""
+
+#: patterns/featured-content-default.php:14
+msgid "Featured"
+msgstr ""
+
+#: patterns/featured-content-default.php:18
+msgid "Trending"
+msgstr ""
+
+#: patterns/featured-content-default.php:22 patterns/services-default.php:21
+msgid "You can manage it from front page in site editor."
+msgstr ""
+
+#: patterns/featured-content-default.php:40
+msgid "Little Known Ways"
+msgstr ""
+
+#: patterns/featured-content-default.php:43
+msgid ""
+"Visualize yourself completing the task and achieving the goals. This will help to "
+"accomplish more in less time."
+msgstr ""
+
+#: patterns/featured-content-default.php:49 patterns/featured-content-default.php:79
+#: patterns/featured-content-default.php:109 patterns/hero-content.php:42
+#: patterns/services-default.php:73 patterns/services-default.php:101
+msgid "Read More"
+msgstr ""
+
+#: patterns/featured-content-default.php:70
+msgid "Fun Travel"
+msgstr ""
+
+#: patterns/featured-content-default.php:73
+msgid ""
+"Feed your adventurous spirit with exciting activities like zip-lining, skydiving, "
+"bungee jumping, or white-water rafting."
+msgstr ""
+
+#: patterns/featured-content-default.php:100
+msgid "Style Up"
+msgstr ""
+
+#: patterns/featured-content-default.php:103
+msgid ""
+"Explore different fashion styles with various looks to find out your personal "
+"style. Try out from classic to edgy."
+msgstr ""
+
+#: patterns/footer-three-columns.php:21
+msgid ""
+"Signify is a Responsive Blogging WordPress Theme that comes with a modern, sleek "
+"design and advance functionalities. The theme is also multipurpose and ideal for "
+"all business purposes as well as personal sites."
+msgstr ""
+
+#: patterns/footer-three-columns.php:31
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer-three-columns.php:43
+msgid "contact us"
+msgstr ""
+
+#: patterns/footer-three-columns.php:47
+msgid "info@email.com"
+msgstr ""
+
+#: patterns/footer-three-columns.php:51
+msgid "+ 123 456 789"
+msgstr ""
+
+#: patterns/footer-three-columns.php:55
+msgid "345 1th Street, Office 879 New York"
+msgstr ""
+
+#: patterns/footer.php:39
+msgid "Y"
+msgstr ""
+
+#: patterns/footer.php:39
+#, php-format
+msgid ". Powered by %s"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "https://wenthemes.com"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "Wen Themes"
+msgstr ""
+
+#: patterns/header-media.php:17
+msgid "Collection 2023"
+msgstr ""
+
+#: patterns/header-media.php:21
+msgid "Unleash Your Creativity"
+msgstr ""
+
+#: patterns/header-media.php:25
+msgid "Our Versatile Multipurpose Block Theme with Dynamic Features."
+msgstr ""
+
+#: patterns/header-media.php:30
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/hero-content.php:22
+msgid "About Us"
+msgstr ""
+
+#: patterns/hero-content.php:26
+msgid "Unveiling Our Purpose"
+msgstr ""
+
+#: patterns/hero-content.php:30
+msgid "Discover the Story Behind"
+msgstr ""
+
+#: patterns/hero-content.php:36
+msgid ""
+"Welcome to our About Us section! We are very excited to share our values and story "
+"with you that drives our organization. Our team is comprised of passionate "
+"individuals from diverse backgrounds who share a common vision."
+msgstr ""
+
+#: patterns/hidden-404.php:17
+msgid "Oops! That page can't be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-blog.php:11
+msgid "Recent Blog"
+msgstr ""
+
+#: patterns/hidden-search.php:10
+msgid "Search"
+msgstr ""
+
+#: patterns/recent-blog-posts.php:15
+msgid "Blog"
+msgstr ""
+
+#: patterns/recent-blog-posts.php:19
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/services-default.php:13
+msgid "What We Do"
+msgstr ""
+
+#: patterns/services-default.php:17
+msgid "Amazing Services"
+msgstr ""
+
+#: patterns/services-default.php:36
+msgid "Haute Couture"
+msgstr ""
+
+#: patterns/services-default.php:40
+msgid ""
+"We use high-quality garments and accessories that are crafted with exceptional "
+"skill and attention to detail."
+msgstr ""
+
+#: patterns/services-default.php:45
+msgid "read More"
+msgstr ""
+
+#: patterns/services-default.php:64
+msgid "Online"
+msgstr ""
+
+#: patterns/services-default.php:68
+msgid ""
+"We bring our solutions and expertise directly to you. So, explore our range of "
+"online services."
+msgstr ""
+
+#: patterns/services-default.php:92
+msgid "Fast Delivery"
+msgstr ""
+
+#: patterns/services-default.php:96
+msgid ""
+"We prioritize efficiency and speed to ensure that your needs are met promptly and "
+"timely. We value your satisfaction."
+msgstr ""
+
+#: patterns/shop-header.php:23
+msgid "The Shop"
+msgstr ""
+
+#: patterns/sidebar-products.php:14
+msgid "Search Products"
+msgstr ""
+
+#: patterns/sidebar-products.php:24
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar-products.php:34
+msgid "Filter by price"
+msgstr ""
+
+#: patterns/sidebar-products.php:50
+msgid "Filter by size"
+msgstr ""
+
+#: patterns/sidebar-products.php:66
+msgid "Filter by Color"
+msgstr ""
+
+#: patterns/sidebar.php:13
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/sidebar.php:31
+msgid "search"
+msgstr ""
+
+#: patterns/sidebar.php:40
+msgid "About"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid ""
+"Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Maecenas odio lacus, "
+"dignissim sollicitudin finibus commodo, rhoncus et ante."
+msgstr ""
+
+#: patterns/sidebar.php:55
+msgid "categories"
+msgstr ""
+
+#: patterns/sidebar.php:64
+msgid "Latest post"
+msgstr ""
+
+#: patterns/sidebar.php:73
+msgid "Archives"
+msgstr ""
